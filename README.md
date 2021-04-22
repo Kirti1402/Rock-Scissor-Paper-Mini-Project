@@ -1,2 +1,3 @@
 # Rock-Scissor-Paper-Mini-Project
-Create a mini Project Rock Scissor Paper where I have use random module functions and loop statement
+Created a mini Project Rock Scissor Paper where I have used random module functions and loop statement.
+Enhancing my knowledge in Python.
