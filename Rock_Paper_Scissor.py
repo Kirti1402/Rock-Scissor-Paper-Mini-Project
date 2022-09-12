@@ -22,6 +22,6 @@ elif user_choice=='s':
         print("you lose")
 elif user_choice=='p':
     if comp_choice=='r':
-        print("you win")
+        print("you win hola")
     else:
         print("you lose")
