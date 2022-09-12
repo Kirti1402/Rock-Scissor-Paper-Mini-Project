@@ -1,6 +1,5 @@
 #Project Rock,Paper and scissor
 import random
-print("Let Start")
 
 user_choice=input("Enter Your option rock 'r',paper 'p',Scissor 's', Exit 'e': ")
 
