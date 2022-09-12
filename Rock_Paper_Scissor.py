@@ -1,10 +1,8 @@
-#Project Rock,Paper and scissor
-import random
 
-user_choice=input("Enter Your option rock 'r',paper 'p',Scissor 's', Exit 'e': ")
+
 
 actions=['r','p','s']
-comp_choice=random.choice(actions)
+
 print(f"User choose {user_choice} and Computer choose {comp_choice}")
 
 if user_choice == comp_choice:
